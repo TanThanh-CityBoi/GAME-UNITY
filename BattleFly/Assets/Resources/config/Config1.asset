@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bd9bf7cbd3321e4c9c527f6c8ae6aa1, type: 3}
+  m_Name: Config1
+  m_EditorClassIdentifier: 
+  configs:
+  - wave: 0
+    count: 30
+    timeDelay: 3
+    timer: 0.5
+    enemyDatas:
+    - enemyId: 101
+      prefab: {fileID: 8479744414318750646, guid: 43397160b099b6e42b53c0316ef09d51,
+        type: 3}
+    - enemyId: 102
+      prefab: {fileID: 1324756751836883928, guid: 35599d3b2f1bdd64ba9f92928f018413,
+        type: 3}
+  - wave: 1
+    count: 15
+    timeDelay: 5
+    timer: 3
+    enemyDatas:
+    - enemyId: 201
+      prefab: {fileID: 3238928484041453413, guid: 82ad1c5ad0eee0846b7c6504f4a24323,
+        type: 3}
+  - wave: 2
+    count: 1
+    timeDelay: 3
+    timer: 0
+    enemyDatas:
+    - enemyId: 301
+      prefab: {fileID: 5888739050206174610, guid: 58b97934ebe47ef4f8773b6955324e63,
+        type: 3}

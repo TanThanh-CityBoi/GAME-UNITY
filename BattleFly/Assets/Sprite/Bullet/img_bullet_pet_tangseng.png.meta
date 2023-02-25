@@ -1,0 +1,248 @@
+fileFormatVersion: 2
+guid: ada055b25d05fb548940e635c807a322
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3192348311473497213
+    second: img_bullet_pet_tangseng_1
+  - first:
+      213: -6506909133987907463
+    second: img_bullet_pet_tangseng_2
+  - first:
+      213: -1231611834889203761
+    second: img_bullet_pet_tangseng_5
+  - first:
+      213: -3612094099335941262
+    second: img_bullet_pet_tangseng_6
+  - first:
+      213: 4395270641535036274
+    second: img_bullet_pet_tangseng_8
+  - first:
+      213: 5875955445846700983
+    second: img_bullet_pet_tangseng_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 90
+        height: 157
+      alignment: 9
+      pivot: {x: 0.5118596, y: 0.83311725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38bdd4fdf1082b3d0800000000000000
+      internalID: -3192348311473497213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 165
+        width: 70
+        height: 188
+      alignment: 9
+      pivot: {x: 0.49999955, y: 0.87614524}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978f7e22e90d2b5a0800000000000000
+      internalID: -6506909133987907463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_5
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 271
+        width: 44
+        height: 76
+      alignment: 9
+      pivot: {x: 0.47574216, y: 0.8791849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf0340cf8f68eee0800000000000000
+      internalID: -1231611834889203761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_6
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 165
+        width: 33
+        height: 105
+      alignment: 9
+      pivot: {x: 0.5354411, y: 0.8555478}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273fbc9ed834fddc0800000000000000
+      internalID: -3612094099335941262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 56
+        height: 148
+      alignment: 9
+      pivot: {x: 0.4999999, y: 0.87083465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b26608c532ffc30800000000000000
+      internalID: 4395270641535036274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: img_bullet_pet_tangseng_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 62
+        width: 58
+        height: 98
+      alignment: 9
+      pivot: {x: 0.53680485, y: 0.8267354}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f6b988569b8150800000000000000
+      internalID: 5875955445846700983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
